@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f08241b0-9b11-42d3-a6e9-613f3396f7de" name="Default Changelist" comment="" />
+    <list default="true" id="f08241b0-9b11-42d3-a6e9-613f3396f7de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inmemorycache.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soumak/lld/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soumak/lld/algorithms/DoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soumak/lld/algorithms/DoublyLinkedListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soumak/lld/cache/Cache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soumak/lld/cache/exceptions/KeyNotFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soumak/lld/cache/exceptions/StorageFullException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soumak/lld/cache/policies/EvictionPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soumak/lld/cache/policies/LRUEvictionPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soumak/lld/cache/storage/HashMapStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soumak/lld/cache/storage/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soumak/lld/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soumak/lld/TestClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soumak/lld/algorithms/DoublyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soumak/lld/algorithms/DoublyLinkedListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soumak/lld/cache/Cache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soumak/lld/cache/exceptions/KeyNotFound.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soumak/lld/cache/exceptions/StorageFullException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soumak/lld/cache/policies/EvictionPolicy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soumak/lld/cache/policies/LRUEvictionPolicy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soumak/lld/cache/storage/HashMapStorage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soumak/lld/cache/storage/Storage.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -145,6 +174,9 @@
       <find>Key to be deleted does not exist</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -170,6 +202,7 @@
     <option name="width" value="1792" />
     <option name="height" value="1017" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -265,6 +298,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -318,12 +352,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625375655626</updated>
-      <workItem from="1625375657513" duration="14914000" />
+      <workItem from="1625375657513" duration="15546000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14914000" />
+    <option name="totallyTimeSpent" value="15546000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1792" height="1017" extended-state="0" />
